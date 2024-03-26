@@ -24,9 +24,7 @@ body {
   align-items: center;
   color: #6e7888;
 }
-canvas {
-  background-color: #181825;
-}
+
 .container {
   display: flex;
   width: 100%;
